@@ -1,0 +1,49 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "951e151e-e798-43dd-a2c4-3954fa535a78",
+            "collectionId": "Swedish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Fable/951e151e-e798-43dd-a2c4-3954fa535a78/951e151e-e798-43dd-a2c4-3954fa535a78_sv_Male.mp4"
+        },
+        {
+            "id": "cfbdef5c-ab09-4b97-a50d-a06f68aa4256",
+            "collectionId": "Swedish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Fable/cfbdef5c-ab09-4b97-a50d-a06f68aa4256/cfbdef5c-ab09-4b97-a50d-a06f68aa4256_sv_Female.mp4"
+        },
+        {
+            "id": "2244a42c-caad-42b1-aa5e-2ade9cfd9cd6",
+            "collectionId": "Swedish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Fable/2244a42c-caad-42b1-aa5e-2ade9cfd9cd6/2244a42c-caad-42b1-aa5e-2ade9cfd9cd6_sv_Female.mp4"
+        },
+        {
+            "id": "9af990f9-72ef-4c27-9b4b-642d16e85adb",
+            "collectionId": "Swedish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Fable/9af990f9-72ef-4c27-9b4b-642d16e85adb/9af990f9-72ef-4c27-9b4b-642d16e85adb_sv_Male.mp4"
+        },
+        {
+            "id": "60cd3d34-8bd2-42df-8d86-bd0e0d20b57f",
+            "collectionId": "Swedish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Fable/60cd3d34-8bd2-42df-8d86-bd0e0d20b57f/60cd3d34-8bd2-42df-8d86-bd0e0d20b57f_sv_Male.mp4"
+        },
+        {
+            "id": "bacac180-9e7b-4fe9-bf25-7a82bf9755c6",
+            "collectionId": "Swedish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Fable/bacac180-9e7b-4fe9-bf25-7a82bf9755c6/bacac180-9e7b-4fe9-bf25-7a82bf9755c6_sv_Male.mp4"
+        }
+    ]
+}
